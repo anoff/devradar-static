@@ -1,6 +1,7 @@
 # devradar static
 
 [![Build Status](https://cloud.drone.io/api/badges/anoff/devradar/status.svg)](https://cloud.drone.io/anoff/devradar)
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fanoff%2Fdevradar-static.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2Fanoff%2Fdevradar-static?ref=badge_shield)
 
 <img src="assets/logo-text.png">
 
@@ -27,3 +28,6 @@ The content in this repositories `gh-pages` branch is generated using the [stati
 ## License & Attributions
 
 Copyright 2019 Andreas Offenhaeuser <https://anoff.io>
+
+
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fanoff%2Fdevradar-static.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2Fanoff%2Fdevradar-static?ref=badge_large)
