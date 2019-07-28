@@ -1,12 +1,15 @@
 # devradar static
 
+[![Build Status](https://cloud.drone.io/api/badges/anoff/devradar/status.svg)](https://cloud.drone.io/anoff/devradar)
+
 <img src="assets/logo-text.png">
 
 This is a template repository you can use to create your own devradar instance hosted on GitHub pages.
 It serves a `devradar.toml` file from a static webserver.
 Follow the setup instructions to get your devradar working in a few minutes.
+The content in this repositories `gh-pages` branch is generated using the [static config](https://github.com/anoff/devradar/tree/master/editor/.build/static) in the devradar main repository.
 
-> Visit [devradar.io](https://devradar.io) for an introduction
+> Visit [devradar.io](https://devradar.io) for more background on the devradar
 
 ## Setup instructions
 
