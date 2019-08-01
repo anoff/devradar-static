@@ -1,7 +1,7 @@
 # devradar static
 
 [![Build Status](https://cloud.drone.io/api/badges/anoff/devradar/status.svg)](https://cloud.drone.io/anoff/devradar)
-[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fanoff%2Fdevradar-static.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2Fanoff%2Fdevradar-static?ref=badge_shield)
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fanoff%2Fdevradar.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2Fanoff%2Fdevradar?ref=badge_shield)
 
 <img src="assets/logo-text.png">
 
@@ -27,7 +27,8 @@ The content in this repositories `gh-pages` branch is generated using the [stati
 
 ## License & Attributions
 
-Copyright 2019 Andreas Offenhaeuser <https://anoff.io>
+The original sourcecode for the devradar is licensed by Copyright 2019 by Andreas Offenhaeuser.
+For a full list of all included open source software and their licenses see the [DISCLAIMER @ gh-pages](https://github.com/anoff/devradar-static/blob/gh-pages/DISCLAIMER) file that is updated with each new version of the editor.
+Below you find a link to the FOSSA open source report for the devradar codebase.
 
-
-[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fanoff%2Fdevradar-static.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2Fanoff%2Fdevradar-static?ref=badge_large)
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fanoff%2Fdevradar.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2Fanoff%2Fdevradar?ref=badge_large)
