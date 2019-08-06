@@ -1332,9 +1332,9 @@ SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
 
 -----
 
-The following software may be included in this product: acorn, acorn-walk. A copy of the source code may be downloaded from https://github.com/acornjs/acorn.git (acorn), https://github.com/acornjs/acorn.git (acorn-walk). This software contains the following license and notice below:
+The following software may be included in this product: acorn. A copy of the source code may be downloaded from https://github.com/ternjs/acorn.git. This software contains the following license and notice below:
 
-Copyright (C) 2012-2018 by various contributors (see AUTHORS)
+Copyright (C) 2012-2016 by various contributors (see AUTHORS)
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
@@ -1356,9 +1356,9 @@ THE SOFTWARE.
 
 -----
 
-The following software may be included in this product: acorn. A copy of the source code may be downloaded from https://github.com/ternjs/acorn.git. This software contains the following license and notice below:
+The following software may be included in this product: acorn, acorn-walk. A copy of the source code may be downloaded from https://github.com/acornjs/acorn.git (acorn), https://github.com/acornjs/acorn.git (acorn-walk). This software contains the following license and notice below:
 
-Copyright (C) 2012-2016 by various contributors (see AUTHORS)
+Copyright (C) 2012-2018 by various contributors (see AUTHORS)
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
@@ -1485,7 +1485,7 @@ The following software may be included in this product: ajv. A copy of the sourc
 
 The MIT License (MIT)
 
-Copyright (c) 2015 Evgeny Poberezkin
+Copyright (c) 2015-2017 Evgeny Poberezkin
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
@@ -1511,7 +1511,7 @@ The following software may be included in this product: ajv. A copy of the sourc
 
 The MIT License (MIT)
 
-Copyright (c) 2015-2017 Evgeny Poberezkin
+Copyright (c) 2015 Evgeny Poberezkin
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
@@ -4573,7 +4573,7 @@ WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
 
 -----
 
-The following software may be included in this product: color-name. A copy of the source code may be downloaded from git@github.com:colorjs/color-name.git. This software contains the following license and notice below:
+The following software may be included in this product: color-name. A copy of the source code may be downloaded from git@github.com:dfcreative/color-name.git. This software contains the following license and notice below:
 
 The MIT License (MIT)
 Copyright (c) 2015 Dmitry Ivanov
@@ -6735,6 +6735,7 @@ SOFTWARE.
 
 The following software may be included in this product: eslint-scope. A copy of the source code may be downloaded from https://github.com/eslint/eslint-scope.git. This software contains the following license and notice below:
 
+eslint-scope
 Copyright JS Foundation and other contributors, https://js.foundation
 Copyright (C) 2012-2013 Yusuke Suzuki (twitter: @Constellation) and other contributors.
 
@@ -6762,7 +6763,6 @@ THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
 
 The following software may be included in this product: eslint-scope. A copy of the source code may be downloaded from https://github.com/eslint/eslint-scope.git. This software contains the following license and notice below:
 
-eslint-scope
 Copyright JS Foundation and other contributors, https://js.foundation
 Copyright (C) 2012-2013 Yusuke Suzuki (twitter: @Constellation) and other contributors.
 
@@ -9122,11 +9122,11 @@ SOFTWARE.
 
 -----
 
-The following software may be included in this product: js-tokens, source-map-resolve. A copy of the source code may be downloaded from https://github.com/lydell/js-tokens.git (js-tokens), https://github.com/lydell/source-map-resolve.git (source-map-resolve). This software contains the following license and notice below:
+The following software may be included in this product: js-tokens. A copy of the source code may be downloaded from https://github.com/lydell/js-tokens.git. This software contains the following license and notice below:
 
 The MIT License (MIT)
 
-Copyright (c) 2014, 2015, 2016, 2017 Simon Lydell
+Copyright (c) 2014, 2015, 2016, 2017, 2018 Simon Lydell
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
@@ -9148,11 +9148,11 @@ THE SOFTWARE.
 
 -----
 
-The following software may be included in this product: js-tokens. A copy of the source code may be downloaded from https://github.com/lydell/js-tokens.git. This software contains the following license and notice below:
+The following software may be included in this product: js-tokens, source-map-resolve. A copy of the source code may be downloaded from https://github.com/lydell/js-tokens.git (js-tokens), https://github.com/lydell/source-map-resolve.git (source-map-resolve). This software contains the following license and notice below:
 
 The MIT License (MIT)
 
-Copyright (c) 2014, 2015, 2016, 2017, 2018 Simon Lydell
+Copyright (c) 2014, 2015, 2016, 2017 Simon Lydell
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
@@ -14271,7 +14271,7 @@ Copyright © 2012–2016 Кир Белевич
 
 The following software may be included in this product: table. A copy of the source code may be downloaded from https://github.com/gajus/table. This software contains the following license and notice below:
 
-Copyright (c) 2018, Gajus Kuizinas (http://gajus.com/)
+Copyright (c) 2016, Gajus Kuizinas (http://gajus.com/)
 All rights reserved.
 
 Redistribution and use in source and binary forms, with or without
@@ -14300,7 +14300,7 @@ SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
 
 The following software may be included in this product: table. A copy of the source code may be downloaded from https://github.com/gajus/table. This software contains the following license and notice below:
 
-Copyright (c) 2016, Gajus Kuizinas (http://gajus.com/)
+Copyright (c) 2018, Gajus Kuizinas (http://gajus.com/)
 All rights reserved.
 
 Redistribution and use in source and binary forms, with or without
